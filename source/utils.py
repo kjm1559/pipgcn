@@ -1,3 +1,9 @@
+""" -*-*-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+The original source code of utils.py is provided in the following link.
+Repository: https://github.com/YeongHyeon/PIPGCN-TF2
+Script    : https://github.com/YeongHyeon/PIPGCN-TF2/blob/master/source/utils.py
+-*-*-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*- """
+
 import os, glob, shutil, pickle, gzip
 
 def make_dir(path, refresh=False):
