@@ -1,3 +1,9 @@
+""" -*-*-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+The original source code of datamanager.py is provided in the following link.
+Repository: https://github.com/YeongHyeon/PIPGCN-TF2
+Script    : https://github.com/YeongHyeon/PIPGCN-TF2/blob/master/source/datamanager.py
+-*-*-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*- """
+
 import os, random
 
 import numpy as np
